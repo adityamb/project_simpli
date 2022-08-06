@@ -65,5 +65,7 @@ Project - Terraform
   terraform init 
   terraform plan
   terraform apply
+
+```
 - Step 3: Wait for the installation to get over
 - Step 4: confirm by going to browser and opening Jenkins using [ip_address]:8080
