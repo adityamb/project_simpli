@@ -3,7 +3,7 @@ Project - Terraform
 
 # Automating Infrastructure using Terraform
 
-# Connecting to AWS with Key Pair
+# Configuring AWS
 - Step 1 : Check if Terraform is Installed
 - Step 2 : Open AWS
 - Step 3 : In terminal run aws configure
