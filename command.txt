@@ -1,0 +1,39 @@
+git clone git@github.com:adityamb/project_simpli.git
+cd project_simpli/
+git add .
+git status
+git commit -am"readme file update"
+git push
+git add . &&  commit -am"readme file update2"
+git add . && git  commit -am"readme file update2"
+git push
+git add . && git  commit -am"readme file update2"
+git push
+aws configure
+aws s3 ls
+ll
+cat ~/.ssh/id_rsa.pub
+cat ~/.ssh/id_rsa
+terraform init
+terraform plan
+terraform apply
+terraform plan
+terraform apply
+terraform fmt
+terraform destroy
+terraform init
+terraform plan
+terraform apply
+terraform plan
+terraform apply
+ssh -i deployer ubuntu@3.237.69.154
+ssh -i deployer ubuntu@172.31.7.111
+ssh -i deployer ubuntu@3.237.69.154
+chmod 400 deployer
+ssh -i deployer ubuntu@3.237.69.154
+ssh -i deployer ubuntu@172.31.7.111
+ssh -i deployer ubuntu@3.237.69.154
+git add . && git commit -am"updating src file"
+git push
+history
+history | cut -c 8- > history.txt
